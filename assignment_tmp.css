@@ -1,0 +1,170 @@
+
+.part1{
+    width: 100%;
+    height: 10%;
+    
+}
+
+.bstext{
+    font-size: medium;
+    float: left;
+    padding: 5px;
+    
+}
+.photo1{
+    text-align: right;
+    padding: 0px;
+    
+}
+
+
+.part2{
+    background-image: url(img/p2bg.JPG);
+    width: 1217px;
+    height: 200px;
+    padding: 60px;
+}
+
+.p2text{
+    text-align: center;
+    color: white;
+}
+
+.p2signup{
+    text-align: center;
+}
+
+.part3{
+    width: 1217px;
+    height: 300px;
+    margin: 29px;
+    padding: 30px;
+
+
+
+}
+
+.p3fb, .p7fb{
+    text-align: center;
+    float: left; 
+    padding: 33px;
+        
+}
+
+.p3is, .p7is{
+    text-align: center;
+    float: left; 
+    padding: 33px;
+    }
+
+.p3tt, .p7tt{
+    text-align: center;
+    float: left; 
+    padding: 33px;
+    
+}
+
+.part4{
+    width: 1217px;
+    height: 287px;
+    margin: 29px;
+    padding: 30px;
+
+}
+
+
+.p401{
+    text-align: center;
+    float: left;
+    padding: 40px;
+}
+
+.p402{
+   padding: 5px;
+
+}
+
+.part5{
+    width: 1217px;
+    height: 287px;
+    margin: 29px;
+    padding: 30px;
+
+}
+
+.p501{
+    float: left;
+}
+
+.p502{
+    text-align: center;
+    padding: 40px;
+}
+
+.part6{
+    width: 1217px;
+    height: 287px;
+    margin: 29px;
+    padding: 30px;
+
+}
+
+
+.p601{
+    text-align: center;
+    float: left;
+    padding: 40px;
+}
+
+.p602{
+    padding: 5px;
+
+}
+
+.part7{
+    width: 1217px;
+    height: 320px;
+    margin: 29px;
+    padding: 30px;
+
+}
+
+.p7txt{
+    text-align: center;
+}
+
+.part8{
+    background-image: url(img/p2bg.JPG);
+    width: 1217px;
+    height: 120px;
+    padding: 60px;
+}
+
+.p8text{
+    text-align: center;
+    color: white;
+}
+
+.p8signup{
+    text-align: center;
+}
+
+.part9{
+    width: 1217px;
+    height: 120px;
+    padding: 60px;
+}
+
+.p901{
+    width: 500px;
+    height: 120px;
+    padding: 25px;
+    float: left;
+}
+
+.p902{
+    width: 1200px;
+    height: 120px;
+    padding: 30px;
+    text-align: center;
+}

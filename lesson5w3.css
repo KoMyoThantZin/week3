@@ -1,0 +1,51 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+      background-color: grey;
+      width: 100%; 
+      height: 60px;
+      
+      
+}
+
+ul{
+    padding-left: 50px;
+    padding-right: 30px;
+}
+
+
+ul li{
+ list-style: none;
+ float: left;
+ display: block;
+ padding: 20px;
+ border-left: solid white 2px;
+}
+
+ul li a{
+    text-decoration: none;
+}
+
+ul li a:hover{
+    color: red;
+    
+}
+
+
+ul li:hover{ 
+background-color: white;
+color: black;
+}
+
+ul li a i{
+    padding: 3px;
+}
+
+.ml{
+    float: right;
+
+}

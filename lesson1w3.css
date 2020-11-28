@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+
+p{
+    color: green; text-align: center;
+}
+
+.para{
+    color: red; text-align: left;
+}
+
+#p3{
+    color: wheat;
+}
+
+#p4{
+    color: gold;
+}

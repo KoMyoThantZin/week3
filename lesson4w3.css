@@ -1,0 +1,12 @@
+.photo{
+    float: left;
+}
+
+img{
+    float: left;
+}
+
+.row1{
+    width: 900px;
+    height: 300px;
+}

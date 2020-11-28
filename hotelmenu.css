@@ -1,0 +1,29 @@
+
+body{
+    background-image: url(img/pj2.jpg);
+}
+nav{
+    margin: 0px;
+      width: 100%; 
+      height: 65px;
+      padding: 4px;
+}
+
+ul li{
+    
+    list-style: none;
+ float: left;
+ padding: 10px;
+}
+
+ul li a{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    color: white;
+    font-size: small;
+}
+
+ul li a:hover{
+    color:blue;
+    
+}
